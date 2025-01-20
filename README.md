@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✨ Full Stack Realtime Chat App ✨
 
 
@@ -13,7 +14,7 @@ Highlights:
 
 ### Setup .env file
 
-```js
+```
 MONGODB_URI=...
 PORT=5001
 JWT_SECRET=...
@@ -36,3 +37,4 @@ npm run build
 ```shell
 npm start
 ```
+
